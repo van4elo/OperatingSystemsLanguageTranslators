@@ -1,0 +1,13 @@
+start;
+x = 23;
+do
+   x = x-1; 
+   print(x);
+   print(x == 14);
+   print(x != 14);
+   print(x < 13);
+   print(x <= 12);
+   print(x > 14);
+   print(x >= 15);
+while x > 10;
+finish;
